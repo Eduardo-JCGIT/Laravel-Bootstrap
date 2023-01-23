@@ -1,9 +1,8 @@
-
 @extends('header')
 
 @section('index')
 
-<main class="container">
+<main class="container form-margin">
     <section class="row">
       <section class="col-sm-4">
         <h2>Acerca de mi</h2>

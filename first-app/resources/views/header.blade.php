@@ -44,7 +44,7 @@
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="tecnologia">Tecnologia</a>
-                    <a class="dropdown-item" href="#">Analisis</a>
+                    <a class="dropdown-item" href="form">Formulario</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="servicios">Servicios</a>
                   </div>
@@ -64,6 +64,7 @@
     @yield('index')
     @yield('service')
     @yield('web')
+    @yield('form')
 
     <footer>
         <div class="jumbotron jumbotron-fluid piepagina">

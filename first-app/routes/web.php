@@ -28,6 +28,8 @@ Route::view('/index', 'index');
 
 Route::view('/web', 'web');
 
+Route::view('/form', 'form');
+
 /*
 Route::view('/saludo' ,'hola') ->name('saludo1');
 
